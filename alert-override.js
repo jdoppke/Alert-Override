@@ -1,4 +1,4 @@
-tion( window ){
+function( window ){
     
     window.nativeAlert = window.alert;
     
